@@ -45,7 +45,7 @@
     "SUDO_USER": {
       "description": "put sudo user name.",
       "value": "1506189313 1018243378"
-      "required": true
+      "required": false
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
