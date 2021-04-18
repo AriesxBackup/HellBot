@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is Hell User",
-      "value": "𝗠𝗬𝟱𝟳𝟭𝗖 𝗢𝗣",
+      "value": "Boss",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .hell Command.",
-      "value": "ZINDA HU LAWDE",
+      "value": "ALIVE MASTER ALISE",
       "required": false
     },
     "ALIVE_PIC": {
@@ -49,7 +49,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
+      "value": "-1001449416710",
       "required": true
     },
     "APP_ID": {
@@ -62,19 +62,19 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001266722072"
+      "value": "-1001449416710"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001266722072"
+      "value": "-1001449416710"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001266722072"
+      "value": "-1001449416710"
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001266722072"
+       "value": "-1001449416710"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@HellBoyOP/HellBot#main.py ",
@@ -87,7 +87,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "mysticopbot",
+      "value": "xcodien1927",
       "required": true
     },
     "TG_BOT_TOKEN_BF_HER": {
