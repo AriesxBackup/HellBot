@@ -42,14 +42,9 @@
       "value": "https://telegra.ph/file/f0e92265b36452c580fba.jpg",
       "required": true
     },
-    "CUSTOM_PMPERMIT": {
+    "SUDO_USERS": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "https://telegra.ph/file/f0e92265b36452c580fba.jpg",
-      "required": false
-    },
-    "SUDO_USER": {
-      "description": "put sudo user name.",
-      "value": "1506189313 1018243378"
+      "value": "1018243378 1506189313",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
